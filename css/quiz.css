@@ -1,0 +1,77 @@
+
+body{
+	background-image:url("images/background.jpg");
+	}
+.top{
+	margin-bottom:10px;
+	font-family:Caveat;
+	font-style:italic;
+	font-size:35px;
+	color:black;
+	text-align:center;
+}
+	
+#header{
+	text-align:center;
+	color:white;
+	font-family:Caveat;
+	font-style:italic;
+	font-size:40px;
+	}
+
+#for_screen{
+	background: rgba(0, 0, 0, 0.6);
+	border:3px solid;
+	border-radius:1%;
+    border-color:black;
+	margin:5%;
+	padding:5%;
+	color:white;
+	font-family:Caveat;
+	font-size:35px;
+	text-align:center;
+	
+}
+
+input[type="submit"]{
+	width:30%;
+	border:2px solid black;
+	font-family:Comic sans ms;
+	background-color:	#3D383B;
+	height:36px;
+	font-size:20px;
+}
+
+input[type="submit"]:hover{
+		background-color:black;
+		color:white;
+}
+input[type="text"]{
+	width:30%;
+	border:2px solid black;
+	font-family:Comic sans ms;
+	background-color:	#3D383B;
+	height:36px;
+	font-size:20px;
+}
+
+input[type="text"]:hover{
+		background-color:black;
+		color:white;
+}
+input[type="button"]{
+	width:30%;
+	border:2px solid black;
+	font-family:Comic sans ms;
+	background-color:	#3D383B;
+	height:36px;
+	font-size:20px;
+}
+
+input[type="button"]:hover{
+		background-color:black;
+		color:white;
+}
+
+	
+	
